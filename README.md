@@ -11,7 +11,6 @@ STA250 (Deep Learning Theory) Final Project About StableRank
 - **Bias Initialization:** The biases of the first linear layer are initialized to $0$ if the weight variance is specified.
 - **Training:** We train the NN with stochastic gradient descent with batch size 64 and learning rate 0.1 for 10 epochs.
 
-We train a two-layer feed-forward neural network with ReLU (or leaky-ReLU) functions. The number of widths is set as $m = 1000$. We use the Gaussian initialization and consider different weight variance $\sigma \in \{0.00001,0.00005,0.0001,0.0005,0.001\}$. We train the NN with stochastic gradient descent with batch size 64 and learning rate 0.1 for 10 epochs.
 
 ## CIFAR 10
 
