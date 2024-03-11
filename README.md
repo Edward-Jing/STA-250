@@ -1,5 +1,9 @@
 # STA-250
-STA250 (Deep Learning Theory) Final Project About StableRank
+STA250 (Deep Learning Theory) Final Project About StableRank 
+
+based on python 3.9+ cuda 12.3
+
+Autism dataset and Neur dataset are from 
 
 ## MNIST
 
